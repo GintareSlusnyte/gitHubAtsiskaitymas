@@ -1,0 +1,28 @@
+// {
+//     "tabai": [
+//         {
+//             "description": "INTRO",
+//             "close": "close button",
+//             "image": "./resources/tab-1.mp4",
+//             "par1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, commodi! Quasi a dolorum tempore porro maxime. Totam iusto voluptatum, voluptatibus nesciunt harum cupiditate explicabo itaque odio quos ullam architecto beatae aut dicta adipisci eligendi. Reprehenderit enim asperiores hic minima nam, sed incidunt tempore numquam, qui vel ex deserunt cum quas", 
+//             "par2": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem iste provident nisi nulla similique minus debitis delectus dolores quidem assumenda in dolore expedita deserunt nobis hic doloribus labore error fuga repellat quia, inventore cupiditate harum unde. Optio consectetur maiores tempora temporibus harum dignissimos velit! Tempore adipisci vero illo. Adipisci dolore id, quasi animi atque a cupiditate. Culpa deserunt quos laborum obcaecati, iusto asperiores fugiat eaque quia dolore tempore, delectus atque"
+//         },{
+//             "description": "WORK",
+//             "close": "close button",
+//             "image": "./resources/tab-2.jpg",
+//             "par1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, commodi! Quasi a dolorum tempore porro maxime. Totam iusto voluptatum, voluptatibus nesciunt harum cupiditate explicabo itaque odio quos ullam architecto beatae aut dicta adipisci eligendi. Reprehenderit enim asperiores hic minima nam, sed incidunt tempore numquam, qui vel ex deserunt cum quas", 
+//             "par2": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem iste provident nisi nulla similique minus debitis delectus dolores quidem assumenda in dolore expedita deserunt nobis hic doloribus labore error fuga repellat quia, inventore cupiditate harum unde. Optio consectetur maiores tempora temporibus harum dignissimos velit! Tempore adipisci vero illo. Adipisci dolore id, quasi animi atque a cupiditate. Culpa deserunt quos laborum obcaecati, iusto asperiores fugiat eaque quia dolore tempore, delectus atque"
+//         },{
+//             "description": "ABOUT",
+//             "close": "close button",
+//             "image": "./resources/tab-3.jpg",
+//             "par1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, commodi! Quasi a dolorum tempore porro maxime. Totam iusto voluptatum, voluptatibus nesciunt harum cupiditate explicabo itaque odio quos ullam architecto beatae aut dicta adipisci eligendi. Reprehenderit enim asperiores hic minima nam, sed incidunt tempore numquam, qui vel ex deserunt cum quas", 
+//             "par2": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem iste provident nisi nulla similique minus debitis delectus dolores quidem assumenda in dolore expedita deserunt nobis hic doloribus labore error fuga repellat quia, inventore cupiditate harum unde. Optio consectetur maiores tempora temporibus harum dignissimos velit! Tempore adipisci vero illo. Adipisci dolore id, quasi animi atque a cupiditate. Culpa deserunt quos laborum obcaecati, iusto asperiores fugiat eaque quia dolore tempore, delectus atque"
+//         },{
+//             "description": "CONTACT",
+//             "image": "./resources/tab-3.jpg",
+//             "par1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, commodi! Quasi a dolorum tempore porro maxime. Totam iusto voluptatum, voluptatibus nesciunt harum cupiditate explicabo itaque odio quos ullam architecto beatae aut dicta adipisci eligendi. Reprehenderit enim asperiores hic minima nam, sed incidunt tempore numquam, qui vel ex deserunt cum quas", 
+//             "par2": "    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem iste provident nisi nulla similique minus debitis delectus dolores quidem assumenda in dolore expedita deserunt nobis hic doloribus labore error fuga repellat quia, inventore cupiditate harum unde. Optio consectetur maiores tempora temporibus harum dignissimos velit! Tempore adipisci vero illo. Adipisci dolore id, quasi animi atque a cupiditate. Culpa deserunt quos laborum obcaecati, iusto asperiores fugiat eaque quia dolore tempore, delectus atque"
+//         }
+//     ]
+// }
