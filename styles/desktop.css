@@ -1,0 +1,56 @@
+@media (min-width: 985px){
+    .gem{
+        width: 120px;
+        height: 130px;
+    }
+    #icon{
+        padding-top: 230px;
+    }
+
+    #icon p{
+        text-align: center;
+    }
+
+    #icon h1 {
+        font-size: 3rem;
+        font-weight: 500;
+    }
+    .line_horizont{
+        font-size: 1.2rem;
+        margin-inline: 15px;
+        border: 1px solid white;
+        border-left-style: none;
+        border-right-style: none;
+    }
+
+    #table{
+        margin-top: 90px;
+    }
+
+    #table{
+        display: flex;
+        margin-inline: 15px;
+        padding: 15px;
+        justify-content:center;
+        align-items: center;
+
+    }
+    #table div{
+        height: 30px;
+        width: 150px;
+        text-align: center;
+        padding: 15px;
+        border: 1px solid white;
+        font-family: 'system-ui';
+        font-weight: 200;
+    }
+    
+    #table div > a{
+        text-decoration: none;
+        color: white;
+    }
+    #table .empty{
+        visibility: hidden;
+    }
+
+}
