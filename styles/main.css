@@ -17,6 +17,7 @@ main::after{
     top:0;
     background-image: url("../resources/bg-overlay.png");
 }
+
 #icon{
     display: flex;
     flex-direction: column;
@@ -52,8 +53,12 @@ main::after{
 }
 
 .line_horizont{
-    border-bottom: 1px solid white;
-    width: 100%;
+    font-size: 1.2rem;
+    margin-inline: 15px;
+    border: 1px solid white;
+    border-left-style: none;
+    border-right-style: none;
+    padding-bottom: 20px;
 }
 
 #icon h1 {
