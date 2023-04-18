@@ -7,8 +7,9 @@
     <title>Document</title>
     <link rel="stylesheet" href="./styles/main.css">
     <link rel="stylesheet" href="./styles/desktop.css">
+    <link rel="stylesheet" href="./styles/tabs.css">
     <script src="https://kit.fontawesome.com/a4aa2febc5.js" crossorigin="anonymous"></script>
-    <script src="./scripts/main.js" defer></script>
+    <script src="./scripts/main.js" type="module"></script>
 </head>
 <body>
     <main>
@@ -19,21 +20,54 @@
                 <div class="line_vertical"></div>
                 <div class="line_horizont">
                     <h1>METAVERSE</h1>
-                    <p>INNOVATION THAT WILL SHAPE HOW WE <a href="">CONNECT</a> IN THE WORLD AN
-                       <a href="">OPPORTUNITY</a> FOR EVERYBODY
+                    <p>INNOVATION THAT WILL SHAPE HOW WE <a href=".">CONNECT</a> IN THE WORLD AN
+                       <a href=".">OPPORTUNITY</a> FOR EVERYBODY
                    </p>
     
                 </div>
                </section>
    
                <section id="table">
-                
-                        <div><a href="">INTRO</a></div>
-                        <div><a href="">WORK</a></div>
-                        <div><a href="">ABOUT</a></div>
-                        <div><a href="">CONTACT</a></div>
+
+                        <div id="intro"><a href="#tab_1">INTRO</a></div>
+                        <div id="work"><a href="#tab_2">WORK</a></div>
+                        <div id="about"><a href="#tab_3">ABOUT</a></div>
+                        <div id="contact"><a href="#tab_4">CONTACT</a></div>
+               </section>
+
+               <section id="tabs">
+                <dialog class="modal1 height"  id="tab_1">
+                    <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                    <h1>INTRO</h1>
+                    <source src="./resources/tab-1.mp4" type="video/mp4">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, saepe reiciendis quaerat tempora dolores eveniet quisquam magnam, ex ipsa voluptatibus quis culpa eligendi similique nam aperiam, enim quae nulla quod distinctio quos esse ipsum quo inventore illum. Explicabo placeat, illo distinctio quos eaque nisi optio est iste quibusdam deleniti inventore!</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quasi inventore ut aliquid iste, facere porro ipsa exercitationem culpa! Consectetur non nesciunt, nemo sint vitae vero optio tempore officiis aut dolor odio neque dolorem doloremque ullam rerum nam, itaque odit consequatur ipsa pariatur! Quaerat corporis reiciendis nam tempore distinctio repellat nostrum, quae ratione quia maxime dolorum placeat accusantium voluptas minus omnis quam itaque? Nemo, sapiente tempore iste magni excepturi fugit.</p>
+                </dialog>
+                    <dialog class="modal2 height" id="tab_2">
+                        <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                        <h1>WORK</h1>
+                        <img src="./resources/tab-2.jpg" alt="tab 2">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, saepe reiciendis quaerat tempora dolores eveniet quisquam magnam, ex ipsa voluptatibus quis culpa eligendi similique nam aperiam, enim quae nulla quod distinctio quos esse ipsum quo inventore illum. Explicabo placeat, illo distinctio quos eaque nisi optio est iste quibusdam deleniti inventore!</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quasi inventore ut aliquid iste, facere porro ipsa exercitationem culpa! Consectetur non nesciunt, nemo sint vitae vero optio tempore officiis aut dolor odio neque dolorem doloremque ullam rerum nam, itaque odit consequatur ipsa pariatur! Quaerat corporis reiciendis nam tempore distinctio repellat nostrum, quae ratione quia maxime dolorum placeat accusantium voluptas minus omnis quam itaque? Nemo, sapiente tempore iste magni excepturi fugit.</p>
+                    </dialog>
+                    <dialog class="modal3 height" id="tab_3">
+                        <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                        <h1>ABOUT</h1>
+                        <img src="./resources/tab-3.jpg" alt="tab 3">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, saepe reiciendis quaerat tempora dolores eveniet quisquam magnam, ex ipsa voluptatibus quis culpa eligendi similique nam aperiam, enim quae nulla quod distinctio quos esse ipsum quo inventore illum. Explicabo placeat, illo distinctio quos eaque nisi optio est iste quibusdam deleniti inventore!</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quasi inventore ut aliquid iste, facere porro ipsa exercitationem culpa! Consectetur non nesciunt, nemo sint vitae vero optio tempore officiis aut dolor odio neque dolorem doloremque ullam rerum nam, itaque odit consequatur ipsa pariatur! Quaerat corporis reiciendis nam tempore distinctio repellat nostrum, quae ratione quia maxime dolorum placeat accusantium voluptas minus omnis quam itaque? Nemo, sapiente tempore iste magni excepturi fugit.</p>
+                    </dialog>
+                    <dialog class="modal4 height" id="tab_4">
+                        <span class="close"><i class="fa-solid fa-xmark"></i></span>
+                        <h1>CONTACT</h1>
+                        <img src="./resources/tab-4.jpg" alt="tab 4">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, saepe reiciendis quaerat tempora dolores eveniet quisquam magnam, ex ipsa voluptatibus quis culpa eligendi similique nam aperiam, enim quae nulla quod distinctio quos esse ipsum quo inventore illum. Explicabo placeat, illo distinctio quos eaque nisi optio est iste quibusdam deleniti inventore!</p>
+                    </dialog>
+
+
+                </div>
+                </div>
                </section>
     </main>
-    
 </body>
 </html>
